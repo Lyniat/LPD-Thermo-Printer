@@ -1,1 +1,1 @@
-# LPD-Thermo-Printer
+# 🖨 LPD Thermo Printer
